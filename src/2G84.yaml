@@ -1,5 +1,5 @@
 ---
-- name: Literal modifers
+- name: Literal modifiers
   from: '@ingydotnet'
   tags: literal scalar
   fail: true

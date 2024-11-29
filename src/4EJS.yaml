@@ -1,5 +1,5 @@
 ---
-- name: Invalid tabs as indendation in a mapping
+- name: Invalid tabs as indendantion in a mapping
   from: https://github.com/nodeca/js-yaml/issues/80
   tags: error mapping whitespace
   fail: true

@@ -66,7 +66,7 @@ The YAML files use a number of non-ascii unicode characters to indicate the
 presence of certain characters that would be otherwise hard to read.
 
 * `␣` is used for trailing space characters
-* Hard tabs are reresented by one of:  (expanding to 4 spaces)
+* Hard tabs are represented by one of:  (expanding to 4 spaces)
   * `———»`
   * `——»`
   * `—»`
@@ -100,7 +100,7 @@ The test files are:
 * `===` -- The name/label of the test
 * `in.yaml` -- The YAML input to be parsed or loaded
 * `test.event` -- The event DSL produced by the parser test program
-* `in.json` -- The JSON value that shoiuld load the same as `in.yaml`
+* `in.json` -- The JSON value that should load the same as `in.yaml`
 * `out.yaml` -- The most normal output a dumper would produce
 * `error` -- This file indicates the YAML should fail to parse
 * `emit.yaml` -- Output an emitter would produce
@@ -143,7 +143,7 @@ tests and also preprocessing them into the `data` branch.
 
   Remove generated files and directories.
 
-## Libaries using this test suite
+## Libraries using this test suite
 
 * C
   * [libyaml](https://github.com/yaml/libyaml)

@@ -1,5 +1,5 @@
 ---
-- name: Invalid document-start marker in doublequoted tring
+- name: Invalid document-start marker in doublequoted string
   from: '@perlpunk'
   tags: header double error
   fail: true

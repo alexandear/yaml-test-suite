@@ -1,5 +1,5 @@
 ---
-- name: Wrong indendation in mapping
+- name: Wrong indentation in mapping
   from: '@perlpunk'
   tags: error mapping indent
   fail: true

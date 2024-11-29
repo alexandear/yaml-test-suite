@@ -1,5 +1,5 @@
 ---
-- name: Wrong indendation in Sequence
+- name: Wrong indendantion in Sequence
   from: '@perlpunk'
   tags: error sequence indent
   fail: true
